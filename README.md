@@ -53,7 +53,7 @@ Humanli/
 │   │   ├── authRoutes.js        # Authentication routes
 │   │   ├── boardRoutes.js       # Board routes
 │   │   └── todoRoutes.js        # Todo routes
-│   ├── .env.example             # Environment variables template
+│   |            # Environment variables template
 │   ├── .gitignore
 │   ├── package.json
 │   └── server.js                # Express server entry point
